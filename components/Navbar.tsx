@@ -11,8 +11,8 @@ const Navbar = () => {
           <Image
             src="/logo.svg"
             alt="logo"
-            width={118}
-            height={18}
+            width={120}
+            height={20}
             className="object-contain"
           />
         </Link>
